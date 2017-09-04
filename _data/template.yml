@@ -1,0 +1,11 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 9522b9
+  secondary: CA2CFB
+  secondary-dark: 333
+  muted: 777
+
+# Font Families
+font:
+  primary: 'Bebas Neue, Oswald, Helvetica Neue, Arial, Open Sans'
+  secondary: 'Menlo,Monaco,Consolas,Courier New,monospace'
